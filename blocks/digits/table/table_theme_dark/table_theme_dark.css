@@ -1,0 +1,8 @@
+.table_theme_dark{
+                z-index: -1;
+                /**/
+                /*color: aliceblue;*//*Если я это оставляю, теряется смысл дочерних модов*/
+                    margin: auto;
+                    padding-bottom: 90px;
+                    
+}

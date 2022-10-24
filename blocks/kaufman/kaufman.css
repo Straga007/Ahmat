@@ -1,0 +1,10 @@
+.kaufman{
+        width: auto;
+        height: auto;/*auto*//*1218px*/
+        margin: auto;
+        background-color:#1f1f1f ; /*Зачем нужны модификаторы?*/
+        position: relative;
+        overflow: hidden;
+        z-index: -2;
+        /*color: aliceblue;*/
+    }       

@@ -1,0 +1,10 @@
+.cards__title{
+    
+    width: 100%;
+    height: auto;
+    margin-bottom:16px ;
+    font-weight: bold;
+        line-height: 1.15;
+        font-size: 24px;
+        text-align: center;
+}

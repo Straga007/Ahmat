@@ -1,0 +1,9 @@
+.section-subtitle{
+        width: 60%;
+        height: auto;
+        margin: auto;
+        text-align: center;
+        line-height: 34px;/*высота стоки*/
+        font-size: 24px;/*размер шрифта*/
+        font-weight: normal;
+}

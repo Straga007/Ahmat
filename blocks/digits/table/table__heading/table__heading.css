@@ -1,0 +1,8 @@
+.table__heading{
+width: 100%;
+line-height: 1.15;
+/*высота стоки*/
+font-size: 24px;
+/*размер шрифта*/
+font-weight: bold;
+}

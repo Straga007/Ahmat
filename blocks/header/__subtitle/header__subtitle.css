@@ -1,0 +1,12 @@
+.header__subtitle{
+left: 64px;
+bottom: 30px;
+position: absolute;
+width: 388px;
+margin: 0px;/*вылезли 12px, обнулил их*/
+
+line-height: 25px;
+font-size: 18px;
+font-style: normal;
+z-index: 3;
+}

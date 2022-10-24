@@ -1,0 +1,10 @@
+.section-title{
+    width: 60%;
+    height: auto;
+    margin: 100px auto 20px auto;
+    line-height: 1.15;/*высота стоки*/
+    font-size: 60px;/*размер шрифта*/
+    text-align: center; 
+
+        font-weight: bold;
+}
